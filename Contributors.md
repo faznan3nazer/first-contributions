@@ -16,6 +16,7 @@
 - Shipra Khattri
 - Akash gupta
 - Marta Pinol
+- Fazna Abdul Nazer
 - [Hamed jabbari] (https://github.com/hamedjbbri)
 - [yingl](https://github.com/godsome)
 - [SureshKumar Jha](https://github.com/sureshkumarjha)
